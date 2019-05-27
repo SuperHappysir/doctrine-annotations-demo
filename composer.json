@@ -1,0 +1,6 @@
+{
+    "name": "root/demo",
+    "require": {
+        "doctrine/annotations": "^1.6"
+    }
+}
